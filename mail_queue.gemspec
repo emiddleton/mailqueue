@@ -16,7 +16,7 @@ Gem::Specification.new do |s|
   s.rubyforge_project         = "mail_queue"
 
   s.add_dependency "stalker", ">= 0.6.1"
-  s.add_dependency "mail", "~> 2.4.4"
+  s.add_dependency "mail", "~> 2.5.3"
   s.add_development_dependency "bundler", ">= 1.0.0.rc.5"
   s.add_development_dependency "rspec", "~> 2.4.0 "
 
